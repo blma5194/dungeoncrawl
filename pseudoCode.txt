@@ -1,0 +1,37 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int quitNumber = 0;
+    while(quitNumber != 1)
+    {
+    roomCount = 0;
+    startMenu;
+    introText;
+    while(roomCount < 5)
+    {
+        print(describeEnterRoom#.txt)
+        while(!roomEmpty())
+        {
+            combatMenu;
+            enemyTurn
+        }
+        print(detscribeRoom#.txt);
+        checkRoomForItems;
+        equipItems;
+        sortItems;
+        roomCount++
+    }
+    
+    while(!roomEmpty)
+    {
+        combatMenu;
+        bossTurn;
+    }
+    describeEndGame;
+    cin >> quitNumber;
+    }
+    return 0;
+}

@@ -1,0 +1,36 @@
+How to play: all of these inputs will be input within the
+combat menu.
+==============================================================
+Moving: Enter 1 in the combat menu Next, input your desired 
+path using a combination of w, a, s, d (without spaces).
+w for up, a for left, s for down, and d for right. You have a 
+total movement of 5 squares before you run out of movement per input.
+==============================================================
+Attacking: When you want to attack an enemy you can enter 2.
+while adjacent to them. You can find the damage your weapon
+can do by inputing 4 within the input menu during combat.
+YOU MUST be next to an enemy to make an attack, the program will
+prompt you if you have made a miss input and YOU WILL lOSE YOUR
+ATTACK.
+============================================================== 
+Healing: To heal enter 3 into the combat menu, there you will
+find a list of items you have available to you to heal from.
+The potency of healing potions will be displayed below the name
+of the item. To use the item simpy enter the number next to the item.
+note: You can heal beyond your current health pool! Your health will
+increase the more healing you do.
+==============================================================
+Other items: You may come across other items in your journey,
+these items will be found below the healing items after pressing 3.
+These are effectivly one use weapons that act the do damage only 
+when next to an enemy.
+==============================================================
+Dodge: When picking the dodge choice you give up your ability to use 
+an attack but instead take no damage from incoming enemy attacks.
+HOWEVER!!! The dodge action does not account for if the enemy lands on
+you. This damage is inevitable as a part of the game to make it more
+challenging.
+==============================================================
+Force quitting the game: To quit the game early simply type "quit"
+into the combat menu and it will automatically exit the game.
+==============================================================
